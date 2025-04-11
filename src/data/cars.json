@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Maruti Suzuki Swift",
+    "brand": "Maruti",
+    "price": 700000,
+    "fuelType": "Petrol",
+    "seats": 5,
+    "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/127163/swift-exterior-right-front-three-quarter-3.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "price": 1200000,
+    "fuelType": "Diesel",
+    "seats": 5,
+    "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/145051/creta-exterior-right-front-three-quarter-8.jpeg"
+  }
+]
+
