@@ -1,12 +1,58 @@
-# React + Vite
+# 🚗 Car Finder Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive web application built with **React.js** that allows users to browse, search, filter, and wishlist cars from a large dataset. Built as a project assignment for **Internshala**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript (ES6+)
+- Tailwind css
+- React Router DOM
+- LocalStorage API
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- 🔍 **Search Cars** – Real-time search by brand or model name  
+- 🧮 **Filter** – Filter cars by fuel type, seating capacity, or price range  
+- 💖 **Wishlist** – Add cars to favorites using LocalStorage (persistent after refresh)  
+- 📄 **Pagination** – View limited cars per page for cleaner UI  
+- 📱 **Responsive Design** – Looks great on both desktop and mobile  
+- 🔄 **API-ready** – Easily replace JSON with live car data from an API
+
+---
+
+
+## 🧠 Learning Outcomes
+
+- Implemented dynamic filtering, searching, and pagination in React
+- Learned component reusability and state management using hooks (`useState`, `useEffect`)
+- Gained experience with routing using **React Router DOM**
+- Used **LocalStorage** for persistent wishlist functionality
+- Improved frontend architecture and responsive UI design
+
+---
+
+## 💡 Use Cases
+
+This project can be used as a base for:
+- Car dealership websites  
+- Rental car apps  
+- Automobile comparison tools  
+- Any listing-based web platform
+
+---
+
+## 🧑‍💻 Author
+
+**Muskan Agarwal**  
+B.Tech CSE, 4th Year  
+Project submitted for Internshala | April 2025
+
+---
+
+> Feel free to fork, improve, or integrate with a backend API for live functionality!
+
